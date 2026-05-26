@@ -1,6 +1,6 @@
 # Adewale Aloba
 
-Multidisciplinary designer
+Multidisciplinary designer. 
 Lagos, Nigeria.
 
 [artbyade.com](https://artbyade.com) · [LinkedIn](https://linkedin.com/in/adewale-aloba)
