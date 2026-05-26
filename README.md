@@ -1,6 +1,7 @@
 # Adewale Aloba
 
-Designer who codes. Builder who ships. Lagos, Nigeria.
+Multidusciplinary designer
+Lagos, Nigeria.
 
 [artbyade.com](https://artbyade.com) · [LinkedIn](https://linkedin.com/in/adewale-aloba)
 
@@ -12,7 +13,7 @@ I'm a senior digital designer with six years across brand identity, motion, 3D, 
 
 Right now I'm Principal Designer at Parable VC in Dubai, taking on client work in parallel, and quietly building a design agency called Layout Studio. The goal with Layout Studio isn't to replicate the traditional model with a few AI tools bolted on. I'm thinking about the structure from scratch: what work AI should own, what humans need to stay responsible for, and what that means for pricing, team size, and client relationships.
 
-The agentic AI question is live for me right now. I think most creative studios are making the wrong bet: they're using AI to go faster inside the existing structure. I'd rather ask what the structure should be when AI handles repeatable execution reliably. The interesting decisions are in direction, judgment, and what the client actually needs, not in production volume.
+The agentic AI question is live for me right now. I think most creative studios are making the wrong bet: they're using AI to go faster inside the existing structure. I'd rather ask what the structure should be when AI handles repeatable execution reliably. The interesting decisions are in direction, judgment, and what the client actually needs.
 
 ---
 
@@ -20,7 +21,7 @@ The agentic AI question is live for me right now. I think most creative studios 
 
 ### [motion-design-with-claude](https://github.com/LobzyJay/motion-design-with-claude)
 
-Four Claude Code skills that give Claude the taste and tool knowledge to work alongside a senior motion designer. Covers the 12 principles, easing taxonomy, timing and spacing, AE scripting patterns, and Blender's bpy API. Wires directly into After Effects and Blender via MCP so Claude can execute live commands, not just write scripts you run yourself.
+Four Claude Code skills that give Claude the taste and tool knowledge to work alongside a senior motion designer. Covers the 12 principles, easing taxonomy, timing and spacing, AE scripting patterns, and Blender's bpy API. Wires directly into After Effects and Blender via MCP so Claude can execute live commands.
 
 Skills: [`motion-design`](https://github.com/LobzyJay/motion-design-with-claude/tree/main/skills/motion-design) · [`aftereffects-motion`](https://github.com/LobzyJay/motion-design-with-claude/tree/main/skills/aftereffects-motion) · [`blender-motion`](https://github.com/LobzyJay/motion-design-with-claude/tree/main/skills/blender-motion) · [`motion-design-critique`](https://github.com/LobzyJay/motion-design-with-claude/tree/main/skills/motion-design-critique)
 
@@ -30,15 +31,11 @@ Skills: [`motion-design`](https://github.com/LobzyJay/motion-design-with-claude/
 
 ### [agmb-design-system](https://github.com/LobzyJay/agmb-design-system)
 
-A token-driven design system built for AG Mortgage Bank Plc, a CBN-licensed Nigerian Primary Mortgage Institution. 28 primitives, 24 canonical colour hexes, 11 motion tokens, and a bi-script type stack: Libre Baskerville for heritage gravitas, Elms Sans for modern utility. The reference set was ACI Worldwide, Stripe, and Mercury, not fintech-lite. Built in Next.js. Documented and surfaced at `/design`.
-
-### [layoutstudio-design-system-](https://github.com/LobzyJay/layoutstudio-design-system-)
-
-The source of truth for Layout Studio's own visual language. CSS custom properties, JSON design tokens, and grid templates (L01–L07) for decks, landing pages, and shipped product. Coolvetica for display headings, Founders Grotesk for body. Dark-first rhythm throughout. Built to be referenced by AI tools and Claude Design AI via live GitHub Pages URLs and anchor fragments.
+A token-driven design system built for AG Mortgage Bank Plc, a CBN-licensed Nigerian Primary Mortgage Institution. Built in Next.js. Documented and surfaced at `/design`.
 
 ### [Systemspec-website-redesign](https://github.com/LobzyJay/Systemspec-website-redesign)
 
-A full rebuild of Systemspec Technology Solutions as three deliverables in one monorepo: marketing site, design system, and UI kit. The design system lives inside the marketing site at `/design/`. The UI kit is a separate app. Built in TypeScript/Next.js. Demonstrates how design system work and production site delivery can share the same repository without stepping on each other.
+A full rebuild of Systemspec Technology Solutions as three deliverables in one monorepo: marketing site, design system, and UI kit. The design system lives inside the marketing site at `/design/`
 
 ---
 
@@ -46,31 +43,23 @@ A full rebuild of Systemspec Technology Solutions as three deliverables in one m
 
 ### [agmb-website](https://github.com/LobzyJay/agmb-website)
 
-Public marketing site for AG Mortgage Bank Plc. Twelve pages: home, mortgage products, calculator, about, insights, contact, and application start. Built with Eleventy 3.1.5 and GSAP ScrollTrigger for line-by-line heading entrances and scroll-reveal sections. GitHub Actions deploys to GitHub Pages on every push. Lives at lobzyjay.github.io/agmb-website.
+Public marketing site for AG Mortgage Bank Plc. Twelve pages: home, mortgage products, calculator, about, insights, contact, and application start. Built with Eleventy 3.1.5 and GSAP ScrollTrigger for line-by-line heading entrances and scroll-reveal sections. 
 
 ### [Pacific-blue](https://github.com/LobzyJay/Pacific-blue)
 
-Marketing site for Pacific Blue, an Australian renewable energy company. The centrepiece is a Three.js wind turbine scene: a GLB model with scroll-driven blade speed, fog, and a starfield. The turbine section locks sticky below the header as you scroll through content phases. Also has a 3.5-second loader, bento grid with animated counters that reset on scroll-away, and a Canvas particle footer. No build step.
+Marketing site for Pacific Blue, an Australian renewable energy company. The turbine section locks sticky below the header as you scroll through content phases.
 
 ### [Daily-Digest](https://github.com/LobzyJay/Daily-Digest)
 
-A dark-first productivity dashboard modelled on a bento grid layout. Eight modules: inbox, job board aggregator with Google X-Ray ATS search, Pomodoro focus timer, news feeds, networking leads tracker, calendar, cold email composer, and activity log. Includes a Quiet Mode that strips the interface back to a minimal focus view. Single-page HTML/CSS/JS, no build step required.
+A dark-first productivity dashboard modelled on a bento grid layout. Eight modules: inbox, job board aggregator with Google X-Ray ATS search, Pomodoro focus timer, news feeds, networking leads tracker, calendar, cold email composer, and activity log. Single-page HTML/CSS/JS.
 
 ### [Synexis-DeSCI](https://github.com/LobzyJay/Synexis-DeSCI)
 
 Landing page concept for Synexis, a Decentralized Science project. Built in HTML, exploring how DeSci infrastructure might be communicated to an audience that isn't already in the space.
 
-### [Moodboard-bento-builder](https://github.com/LobzyJay/Moodboard-bento-builder)
-
-A browser-based bento grid tool for building and exporting moodboards. HTML.
-
 ### [Voltex](https://github.com/LobzyJay/Voltex)
 
 A front-end build in HTML. In progress.
-
-### [website-protoype](https://github.com/LobzyJay/website-protoype)
-
-Early-stage website prototype. HTML.
 
 ### [Portfolio](https://github.com/LobzyJay/Portfolio)
 
@@ -82,7 +71,7 @@ Holding portfolio site while the main one is rebuilt. CSS-driven layout.
 
 ### [Redesigning a 1992 Nigerian holding company's website with AI](https://www.artbyade.com/case-study/stsl/)
 
-A build log for the STSL marketing site rebuild. Covers the thesis (editorial, not promotional), the two-layer token architecture, how a multi-agent Claude workflow handled the heavy lifting, and the sequence of bugs that surfaced once real users hit the live build. The honest version of shipping a quietly modern site for an audience that doesn't want to be marketed to.
+A build log for the STSL marketing site rebuild. Covers how a multi-agent Claude workflow handled the heavy lifting, and the sequence of bugs that surfaced once real users hit the live build. The honest version of shipping a quietly modern site for an audience that doesn't want to be marketed to.
 
 ---
 
@@ -102,9 +91,9 @@ The agentic question is the one I'm sitting with right now. If AI can handle exe
 
 | Design | Development |
 |---|---|
-| Figma, After Effects, Blender | HTML, CSS, JavaScript |
-| Cinema 4D, Spline | Three.js, Canvas API, Matter.js |
-| Premiere Pro, DaVinci Resolve | TypeScript, React (in progress) |
+| Figma, Paper, Claude.design | HTML, CSS, JavaScript |
+| After Effects, Lottie, Blender | Three.js, Canvas API, Matter.js |
+| Premiere Pro | TypeScript, React (in progress) |
 | Adobe Creative Suite | Claude Code, Lovable |
 
 ---
