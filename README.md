@@ -9,11 +9,9 @@ Lagos, Nigeria.
 
 ## About
 
-I'm a senior digital designer with six years across brand identity, motion, 3D, UI/UX, and front-end development. I don't hand off. I design a system, write the code, and ship it. The work at the top of this profile is real projects, not concepts sitting in Figma.
+I'm a senior digital designer with six years across brand identity, motion, 3D, UI/UX, and front-end development. I don't hand off. I design a system, write the code, and ship it. 
 
-Right now I'm Principal Designer at Parable VC in Dubai, taking on client work in parallel, and quietly building a design agency called Layout Studio. The goal with Layout Studio isn't to replicate the traditional model with a few AI tools bolted on. I'm thinking about the structure from scratch: what work AI should own, what humans need to stay responsible for, and what that means for pricing, team size, and client relationships.
-
-The agentic AI question is live for me right now. I think most creative studios are making the wrong bet: they're using AI to go faster inside the existing structure. I'd rather ask what the structure should be when AI handles repeatable execution reliably. The interesting decisions are in direction, judgment, and what the client actually needs.
+Right now I'm Principal Designer at Parable VC in Dubai, taking on client work in parallel, and quietly building a design agency called Layout Studio. 
 
 ---
 
