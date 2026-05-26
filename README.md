@@ -102,7 +102,7 @@ I started in design and got pulled toward code because I kept running into thing
 - Three.js: scenes, GLB pipelines, scroll-driven animation
 - React: moving from vanilla JS toward component-driven front-end work
 - Blender scripting: Python automation for 3D pipeline tasks
-- Agentic studio structure: what a creative studio looks like when AI owns execution — team model, pricing, client relationships
+- Agentic studio structure: what a creative studio looks like when AI owns execution (team model, pricing, client relationships)
 - AGMB design system: extending token coverage and pattern library
 
 ---
