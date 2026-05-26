@@ -78,6 +78,14 @@ Holding portfolio site while the main one is rebuilt. CSS-driven layout.
 
 ---
 
+## Articles
+
+### [Redesigning a 1992 Nigerian holding company's website with AI](https://www.artbyade.com/case-study/stsl/)
+
+A build log for the STSL marketing site rebuild. Covers the thesis (editorial, not promotional), the two-layer token architecture, how a multi-agent Claude workflow handled the heavy lifting, and the sequence of bugs that surfaced once real users hit the live build. The honest version of shipping a quietly modern site for an audience that doesn't want to be marketed to.
+
+---
+
 ## How I Think About Design and Code
 
 Design and code are the same conversation for me. When I spec a component, I'm already thinking about how it renders. When I write CSS, I'm making design decisions. Keeping those two tracks separate adds lag, misses context, and produces worse work on both sides.
