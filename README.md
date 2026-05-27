@@ -9,7 +9,7 @@ Lagos, Nigeria.
 
 ## About
 
-I'm a senior digital designer with six years across brand identity, motion, 3D, UI/UX, and front-end development. I don't hand off. I design a system, write the code, and ship it. 
+I'm a Multidisciplinary designer with six years across brand identity, motion, 3D, UI/UX, and front-end development. I don't hand off. I design a system, write the code, and ship it. 
 
 Right now I'm Principal Designer at Parable VC in Dubai, taking on client work in parallel, and quietly building a design agency called Layout Studio. 
 
