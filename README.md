@@ -15,16 +15,6 @@ Right now I'm Principal Designer at Parable VC in Dubai, taking on client work i
 
 ---
 
-## Tools
-
-### [motion-design-with-claude](https://github.com/LobzyJay/motion-design-with-claude)
-
-Four Claude Code skills that give Claude the taste and tool knowledge to work alongside a senior motion designer. Covers the 12 principles, easing taxonomy, timing and spacing, AE scripting patterns, and Blender's bpy API. Wires directly into After Effects and Blender via MCP so Claude can execute live commands.
-
-Skills: [`motion-design`](https://github.com/LobzyJay/motion-design-with-claude/tree/main/skills/motion-design) · [`aftereffects-motion`](https://github.com/LobzyJay/motion-design-with-claude/tree/main/skills/aftereffects-motion) · [`blender-motion`](https://github.com/LobzyJay/motion-design-with-claude/tree/main/skills/blender-motion) · [`motion-design-critique`](https://github.com/LobzyJay/motion-design-with-claude/tree/main/skills/motion-design-critique)
-
----
-
 ## Design Systems
 
 ### [agmb-design-system](https://github.com/LobzyJay/agmb-design-system)
