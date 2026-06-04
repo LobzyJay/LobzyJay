@@ -53,6 +53,14 @@ Holding portfolio site while the main one is rebuilt. CSS-driven layout.
 
 ---
 
+## Tools and Experiments
+
+### [nodefield](https://github.com/LobzyJay/nodefield)
+
+A controllable render engine for a maths-driven data-network field. It started as a Blender geometry-node setup I wanted to make, and once I saw how long that road was I rebuilt it as something you can actually drive in the browser. Built in React, TypeScript and react-three-fiber with custom GLSL: the fibres are one instanced draw call, telemetry numbers ride the field in decimal, binary, hex or ascii, and a live readout shows the equation behind whatever shape is on screen. The shapes run from spheres and tori through strange attractors, torus knots and Gielis superformulas, and presets morph from one into the next instead of cutting. Exports to PNG, JPEG and vector SVG.
+
+---
+
 ## Articles
 
 ### [Redesigning a 1992 Nigerian holding company's website with AI](https://www.artbyade.com/case-study/stsl/)
