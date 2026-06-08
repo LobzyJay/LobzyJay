@@ -69,18 +69,6 @@ A build log for the STSL marketing site rebuild. Covers how a multi-agent Claude
 
 ---
 
-## How I Think About Design and Code
-
-Design and code are the same conversation for me. When I spec a component, I'm already thinking about how it renders. When I write CSS, I'm making design decisions. Keeping those two tracks separate adds lag, misses context, and produces worse work on both sides.
-
-Brand identity is a system problem before it's an aesthetic problem. The question isn't what looks good. It's what holds together at scale: across applications, screen sizes, production constraints, and people who weren't in the original brief. I work out the rules first and let the visuals follow from them.
-
-For early-stage clients, the designer-developer combination matters because there's no margin for miscommunication. A startup can't afford a two-week loop between spec and implementation for every component. When one person holds the full picture, decisions are faster and the output is more coherent.
-
-The agentic question is the one I'm sitting with right now. If AI can handle execution reliably at the component and layout level, what does the senior designer's job actually become? My answer: the thing AI can't own is the judgment call about what the client needs versus what they asked for, the read on whether a brand direction is going to age badly, and the relationship that makes honest feedback possible. That's where I want to spend my time.
-
----
-
 ## Stack and Tools
 
 | Design | Development |
