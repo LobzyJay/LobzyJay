@@ -85,19 +85,4 @@ A build log for the STSL marketing site rebuild. Covers how a multi-agent Claude
 I started in design and got pulled toward code because I kept running into things I wanted to build that no developer was going to prioritise. Six years later the split is roughly 60/40: design direction and systems thinking on one side, front-end implementation on the other. The curiosity that drives the work is broader than either. I read across art, science, maths, finance, biology, and history, and that range shows up in the work. Different domains borrow from each other constantly. The best design decisions I've made came from thinking that started somewhere else entirely. Now I'm founding Layout Studio, which is the thing I want to build long enough to have an opinion about.
 
 ---
-
-## Currently Building and Learning
-
-- Three.js: scenes, GLB pipelines, scroll-driven animation
-- React: moving from vanilla JS toward component-driven front-end work
-- Blender scripting: Python automation for 3D pipeline tasks
-- Agentic studio structure: what a creative studio looks like when AI owns execution (team model, pricing, client relationships)
-- AGMB design system: extending token coverage and pattern library
-
----
-
-## Reach
-
-- [artbyade.com](https://artbyade.com)
-- [LinkedIn](https://linkedin.com/in/adewale-aloba)
 - Open to: freelance, full-time remote (UK, UAE, global tech), Web3 design and brand collaborations
